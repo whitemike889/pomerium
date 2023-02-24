@@ -11,10 +11,9 @@ require (
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
 	github.com/rs/zerolog v1.12.0
 	github.com/stretchr/testify v1.3.0 // indirect
-	golang.org/x/crypto v0.0.0-20190228161510-8dd112bcdc25
-	golang.org/x/net v0.0.0-20190228165749-92fc7df08ae7
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	golang.org/x/oauth2 v0.0.0-20190226205417-e64efc72b421
-	golang.org/x/text v0.3.2 // indirect
 	google.golang.org/api v0.1.0
 	google.golang.org/grpc v1.19.1
 	gopkg.in/square/go-jose.v2 v2.3.1
